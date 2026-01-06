@@ -6,6 +6,9 @@
 <img width="404" height="302" alt="IMG_7471" src="https://github.com/user-attachments/assets/9cfd8e63-9599-4ccf-a17b-e442a854dbf5" />
 <img width="256" height="368" alt="IMG_7474" src="https://github.com/user-attachments/assets/d4d5a431-2388-4005-a1bb-e759b8e4cc12" />
 
+<img width="480" height="270" alt="GIF Animation" src="https://github.com/user-attachments/assets/33806d7f-2f7c-4a83-8c38-9f46b8f8c9ee">
+
+
 ## 特徴
 
 - **レゴ互換**: レゴブロックと同じ基準寸法（16mm幅）で設計
