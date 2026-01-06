@@ -7,6 +7,9 @@ A 3D printable pen holder attachment designed for the toio™ cube robot, enabli
 
 <img width="256" height="368" alt="IMG_7474" src="https://github.com/user-attachments/assets/d4d5a431-2388-4005-a1bb-e759b8e4cc12" />
 
+<img width="480" height="270" alt="GIF Animation" src="https://github.com/user-attachments/assets/33806d7f-2f7c-4a83-8c38-9f46b8f8c9ee">
+
+
 ## Features
 
 - **LEGO Compatible**: Built with standard LEGO dimensions (16mm width)
